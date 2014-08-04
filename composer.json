@@ -1,0 +1,12 @@
+{
+    "name": "xtlan/env",
+    "autoload": {
+        "classmap": [
+            "Application/",
+            "Config/Store/",
+            "Package/",
+            "Language/",
+            "/"    
+        ]
+    }
+}
